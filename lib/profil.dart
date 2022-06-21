@@ -219,7 +219,7 @@ class _ProfilState extends State<Profil> {
                       Spacer(
                         flex: 8,
                       ),
-                      Text("Rijal",
+                      Text("Yogi",
                           style: TextStyle(
                             color: Colors.grey,
                             fontSize: 14,
